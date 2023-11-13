@@ -1,6 +1,6 @@
 # BSC_DPDM23
 Data Preparation And Data Mining 2023
-ชื่อ นายภัทรธร ก้อนมณี (์Name Pattaratron Gonmanee) รหัสนักศึกษา 643020513-9
+- ชื่อ นายภัทรธร ก้อนมณี (์Name Pattaratron Gonmanee) รหัสนักศึกษา 643020513-9
 # Score
 - Midterm (data prepocessing ปฏิบัติ(เดี่ยว)) 20%
 - Final (ทฤษฎี data mining เดี่ยว) 20%
