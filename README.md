@@ -9,12 +9,12 @@ Data Preparation And Data Mining 2023
 - Quiz (เดี่ยว ถามในห้อง) 5%
 - GitHub 5%
 
-#Final Score = Score * %attendance
-22/11/2023#
+# Final Score = Score * %attendance
+# 22/11/2023
 - วันนี้เขียนโค้ด + เรียนในห้องเรื่องระยะห่างระหว่างจุด(เพิ่ม)
-#27/11/2023#
+# 27/11/2023
 - หยุดคลาส
-#29/11/2023#
+# 29/11/2023
 - เรียนเขียนโค้ด 9-12 โมง เรียน data visualization เเละ distance matrix เหลือ z-score เเละ normalized สัปดาห์หน้ายกคลาส เจอกันอีกที 13 ธ.ค.2566
-#17/1/2024
+# 17/1/2024
 - การเรียน Decision Trees เเละการบ้าน HW2
