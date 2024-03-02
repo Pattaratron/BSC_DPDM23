@@ -8,8 +8,7 @@ Data Preparation And Data Mining 2023
 - Homework (แบ่งกลุ่มใหม่ทุกครั้ง) 20%
 - Quiz (เดี่ยว ถามในห้อง) 5%
 - GitHub 5%
-
-Final Score = Score * %attendance
+### Final Score = Score * %attendance
 # 22/11/2023
 - วันนี้เขียนโค้ด + เรียนในห้องเรื่องระยะห่างระหว่างจุด(เพิ่ม)
 # 27/11/2023
