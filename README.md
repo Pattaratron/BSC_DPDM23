@@ -30,7 +30,7 @@
 # Homework ![blue-archive-hoshino (1)](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/2b2d4c3a-956e-4ea4-b9ea-983c831c254a)
 ## กลุ่ม HW1 Frequent Item Set & Association Rules
 - Data Set: reduced_marketbasket
--สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
+สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 
@@ -39,7 +39,7 @@
 ## HW2
 * HW2_PDF : [HW2_PDF](https://github.com/Pattaratron/BSC_DPDM23/blob/main/HW2_643020513-9_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%98%E0%B8%A3-%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%93%E0%B8%B5.pdf)
 ## กลุ่ม HW3 เเละ HW4 decision tree parameters
--สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
+สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 
@@ -54,7 +54,7 @@
  ## HW5
 * HW5_PDF : [HW5_PDF](https://github.com/Pattaratron/BSC_DPDM23/blob/main/HW5_643020513-9.jpg)
  ## กลุ่ม project data mining
--สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
+สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 
