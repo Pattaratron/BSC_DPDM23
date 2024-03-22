@@ -30,6 +30,7 @@
 # Homework ![blue-archive-hoshino (1)](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/2b2d4c3a-956e-4ea4-b9ea-983c831c254a)
 ## กลุ่ม HW1 Frequent Item Set & Association Rules
 - Data Set: reduced_marketbasket
+  
 สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
