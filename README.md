@@ -27,7 +27,7 @@
 ## 20/3/2024
 ทำการสอบ ปลายภาย
 # code สำหรับทำการสอบกลางภาค : [cilk here](https://github.com/Pattaratron/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
-# Homework ![blue-archive-arona (1)](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/12570624-9943-4089-bb1f-58eed60b5de5)
+# Homework ![blue-archive-hoshino (1)](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/2b2d4c3a-956e-4ea4-b9ea-983c831c254a)
 ## กลุ่ม HW1 Frequent Item Set & Association Rules
 - Data Set: reduced_marketbasket
 สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
@@ -39,7 +39,7 @@
 ## HW2
 * HW2_PDF : [HW2_PDF](https://github.com/Pattaratron/BSC_DPDM23/blob/main/HW2_643020513-9_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%98%E0%B8%A3-%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%93%E0%B8%B5.pdf)
 ## กลุ่ม HW3 เเละ HW4 decision tree parameters
-สมาชิกกลุ่ม ![takanashi-hoshino-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/76b792d7-cb99-491e-a548-6e5b479b4061)
+สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 
@@ -54,7 +54,7 @@
  ## HW5
 * HW5_PDF : [HW5_PDF](https://github.com/Pattaratron/BSC_DPDM23/blob/main/HW5_643020513-9.jpg)
  ## กลุ่ม project data mining
-สมาชิกกลุ่ม ![seseren-clapping](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/030269b0-51df-4cc5-9b58-f8dd29289fe9)
+สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 
@@ -66,7 +66,7 @@
 * สไลด์ความคืบหน้า(4 มีนาคม 2567) : [สไลด์ความคืบหน้า](https://www.canva.com/design/DAF-VT-Cu9k/hXUi78nBDY7S184lPDQGVw/view?utm_content=DAF-VT-Cu9k&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 * สไลด์นำเสนอผลลัพธ์(6 มีนาคม 2567) :  : [สไลด์นำเสนอผลลัพธ์](https://www.canva.com/design/DAF-pQrFzv0/LumNCqHKuCYNh-dxF8Bs1g/view?utm_content=DAF-pQrFzv0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 * code project : [code project](https://github.com/Pattaratron/BSC_DPDM23/blob/main/Project.ipynb)
-# Quiz ![ดาวน์โหลด](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/e737b691-0e81-4cad-97c0-efc0d90f9dc9)
+# Quiz ![blue-archive-hoshino (1)](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/2b2d4c3a-956e-4ea4-b9ea-983c831c254a)
 ## Quiz8
 * Quiz8 : [Quiz8](https://github.com/Pattaratron/BSC_DPDM23/blob/main/Quiz8_643020513-9.jpg)
 ## Quiz9
