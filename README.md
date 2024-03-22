@@ -1,4 +1,4 @@
-# BSC_DPDM23
+# BSC_DPDM23 ![aris-dancing-arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/d03c4be3-34d3-4083-9e39-df2cd9e020a0)
 ✨Data Preparation And Data Mining 2023✨
 - ชื่อ นายภัทรธร ก้อนมณี (์Name Pattaratron Gonmanee) รหัสนักศึกษา 643020513-9
 # Score
@@ -30,7 +30,7 @@
 # Homework
 ## กลุ่ม HW1 Frequent Item Set & Association Rules
 - Data Set: reduced_marketbasket
-- ✨ สมาชิกกลุ่ม ✨
+- ![15696a253c4f14989d19941aaf101607](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/635aa4a6-de61-4f88-ae7f-fe34e3edc6b8) สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 
@@ -39,7 +39,8 @@
 ## HW2
 * HW2_PDF : [HW2_PDF](https://github.com/Pattaratron/BSC_DPDM23/blob/main/HW2_643020513-9_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%98%E0%B8%A3-%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%93%E0%B8%B5.pdf)
 ## กลุ่ม HW3 เเละ HW4 decision tree parameters
-✨ สมาชิกกลุ่ม ✨
+- ![9cebf922bb2bcf970e8cae9b41518450](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/318f785a-5eb3-40dc-911d-96ab349cb368)
+ สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 
@@ -54,7 +55,7 @@
  ## HW5
 * HW5_PDF : [HW5_PDF](https://github.com/Pattaratron/BSC_DPDM23/blob/main/HW5_643020513-9.jpg)
  ## กลุ่ม project data mining
-✨ สมาชิกกลุ่ม ✨
+- ![15696a253c4f14989d19941aaf101607](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/635aa4a6-de61-4f88-ae7f-fe34e3edc6b8) สมาชิกกลุ่ม ![arisu-blue-archive](https://github.com/Pattaratron/BSC_DPDM23/assets/137043441/eb8ca8b0-7c75-4c38-8b2a-20f330e51733)
 1. นายภัทรธร ก้อนมณี รหัสนักศึกษา 643020513-9
 2. นายรัชชานนท์ ทิพย์พิมานพร รหัสนักศึกษา 643020515-5
 3. นายวุฒิชัย คำนา รหัสนักศึกษา 643020521-0 
